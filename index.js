@@ -1,11 +1,17 @@
 var slideIndex = 0;
 const slides = [
   {
-    name: 'Jetsons Farm',
+    name: 'Gestão a Vista Prodap',
     page:
-      'https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vQQLb7QDeWEM7Uy4a4Bd7cI--YFQtLNQPJz5mIgnvdZ2NR94mPPbXQXkN4HEkc6f8nOaXmb_2oqTqfy/pub?start%3Dtrue%26loop%3Dfalse%26delayms%3D60000&sa=D&source=hangouts&ust=1569361643150000&usg=AFQjCNFFpa8WzAuRq3RMkW19MnmzOzlBtQ',
-    seconds: 20
-  }
+      'https://docs.google.com/presentation/d/e/2PACX-1vT6lJjES9CtHGCN547fRYYUfIATW-9Whyc36pe2gwW5TVveeUnZUjOOVOs7mYD4tQ/pub?start=true&loop=true&delayms=15000',
+    seconds: 600
+  };
+  {
+name: 'Teste Instagran Sou Prodap',
+page:
+'https://www.instagram.com/p/B22MXlDJ90DAeDZ9OxNB_t04Tl6cMIdFk9XheA0/',
+seconds: 20
+},
 ];
 
 var i = -1;

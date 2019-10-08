@@ -4,7 +4,7 @@ const slides = [
     name: 'Gestão a Vista Prodap',
     page:
       'https://docs.google.com/presentation/d/e/2PACX-1vT6lJjES9CtHGCN547fRYYUfIATW-9Whyc36pe2gwW5TVveeUnZUjOOVOs7mYD4tQ/pub?start=true&loop=true&delayms=15000',
-    seconds: 600
+    seconds: 15
   };
   {
 name: 'Teste Instagran Sou Prodap',
